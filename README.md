@@ -1,6 +1,8 @@
 # aes-java
 Some Java AES stuff
 
+This README written 12 November 2016
+
 An Assignment from Professor Marius Zimand at Towson University
 
 You can see his school webpage here: http://orion.towson.edu/~mzimand/
@@ -15,3 +17,15 @@ http://stackoverflow.com/questions/15554296/simple-java-aes-encrypt-decrypt-exam
 
 the hexCode method, I, irresponibly, don't know where I got it from. I can tell you it's not original and that I found it somewhere on the Internet.
 
+Also NOTE:
+I'm not sure with what version of Java I developed this. Here is (possibly) The NetBeans version information:
+
+Product Version: NetBeans IDE 7.4 (Build 201310111528)
+Updates: NetBeans IDE is updated to version NetBeans 7.4 Patch 3
+Java: 1.7.0_51; Java HotSpot(TM) 64-Bit Server VM 24.51-b03
+Runtime: Java(TM) SE Runtime Environment 1.7.0_51-b13
+System: Windows 8 version 6.2 running on amd64; Cp1252; en_US (nb)
+
+NOTE: This older version of NetBeans seems to think that Windows 10 is Windows 8.
+
+I pulled this code from an old email I sent a friend with this code as an attachment. It's possible that I developed on a different machine than my usual development machine.
